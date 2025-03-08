@@ -106,7 +106,7 @@ void Stack::Display(int nPos)
     return;
 }
 
-int main(int argc, const char * argv[])
+int main()
 {
     Stack obj;
     int nOperation = -1;
