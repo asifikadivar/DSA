@@ -2,3 +2,4 @@
 **/build
 **/Contents/
 main
+.DS_Store
